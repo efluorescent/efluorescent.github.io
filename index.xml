@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EFLU-orescent 💡 on EFLU-orescent</title>
+    <link>http://example.org/</link>
+    <description>Recent content in EFLU-orescent 💡 on EFLU-orescent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 12:05:58 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://example.org/aboutme/</link>
+      <pubDate>Sat, 26 Nov 2022 12:36:18 +0530</pubDate>
+      
+      <guid>http://example.org/aboutme/</guid>
+      <description>#-#-#
+你好
+My name is 威斯瓦斯 and I am a first year English student at EFLU (tentative). I am very weird and most people think I am creepy. I like learning about FOSS and think Linguistics is awesome.
+Here is what I plan to do with my life:
+Quit EFLU Do my Btech from a random college in CSE Study for GATE Do my MTECH from Indian institute of tomboy hentai (IIT-H) Do my PhD from the same Become a professor at IIT-H Marry a student of mine Have kids Name them Depression and anxiety Beat depression and anxiety Get my kids to join IIT-H Make IIT-H my family heirloom Get rid of depression and anxiety Become old Die Go to hell Meet my Grand-father </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://example.org/resources/</link>
+      <pubDate>Sat, 26 Nov 2022 12:36:07 +0530</pubDate>
+      
+      <guid>http://example.org/resources/</guid>
+      <description>Most of the resources included are links to other websites or curation of websites deemed fit by me.Some of them might not meet your needs. If you have any suggestions or opprobrium, please relay them via email
+Poetry Websites OC-Poetry: A subreddit where anyone can post poems. Some of them are like EFLU&amp;rsquo;s original website whilst some poems are like this website. :)
+Poetry.com: A stellar site with poems from prolific writers.</description>
+    </item>
+    
+  </channel>
+</rss>
